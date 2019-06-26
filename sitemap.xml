@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://transteph.github.io/publii-concept/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://transteph.github.io/publii-concept/</loc>
+</url>
+<url>
+<loc>https://transteph.github.io/publii-concept/hey.html</loc>
+<lastmod>2019-06-26T14:09:52-04:00</lastmod>
+<image:image>
+<image:loc>https://transteph.github.io/publii-concept/media/posts/1/hide-the-pain-stockphoto-840x560.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://transteph.github.io/publii-concept/post-2-copy.html</loc>
+<lastmod>2019-06-26T14:09:18-04:00</lastmod>
+<image:image>
+<image:loc>https://transteph.github.io/publii-concept/media/posts/3/young-customer-service-man-with-brace-doing-the-ok-sign-CRJ923.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://transteph.github.io/publii-concept/post-2.html</loc>
+<lastmod>2019-06-26T14:10:24-04:00</lastmod>
+<image:image>
+<image:loc>https://transteph.github.io/publii-concept/media/posts/2/pexels-photo-1661004.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
